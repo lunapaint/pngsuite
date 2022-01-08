@@ -1,4 +1,6 @@
-![PngSuite](./PngSuite.png)
+<p align="center">
+  <img width="256" height="256" src="https://github.com/lunapaint/pngsuite/raw/main/PngSuite.png">
+</p>
 
 This is a collection of png images created to test png applications like viewers, converters and editors. The majority of formats supported by the PNG standard are represented.
 
